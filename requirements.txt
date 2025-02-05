@@ -1,5 +1,7 @@
 pypdf
 langchain
+langchain_ollama
+langchain_community
 chromadb # Vector storage
 pytest
 boto3
