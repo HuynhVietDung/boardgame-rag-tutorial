@@ -1,7 +1,6 @@
 import pytest
 import sys
 import os
-from langchain_ollama import OllamaLLM
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from src.query import query
 from langchain_ollama import OllamaLLM
